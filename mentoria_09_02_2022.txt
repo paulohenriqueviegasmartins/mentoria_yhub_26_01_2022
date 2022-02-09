@@ -1,0 +1,5 @@
+Nesta mentoria vamos trabalhar os pontos mais avançados de Git
+
+1. Assinatura de Git
+2. Gitflow
+3. Práticas de boa governança de Git
